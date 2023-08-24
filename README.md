@@ -26,6 +26,8 @@
 
 <img align="left" alt="Coding" width="30" src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"></img>
 
+<br/> <br/>
+
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></img> <br/> <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphonyofthenight&show_icons=true&locale=en&layout=compact" alt="symphonyofthenight" /></p>
