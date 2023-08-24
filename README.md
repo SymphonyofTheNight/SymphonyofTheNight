@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gino Dela Vega</h1>
 <h3 align="center">A passionate Web developer / Software Engineer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/58/c3/c9/58c3c9f2f0fc7cdc981babdab9dfa053.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphonyofthenight&label=Profile%20views&color=0e75b6&style=flat" alt="symphonyofthenight" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symphonyofthenight" alt="symphonyofthenight" /></a> </p>
 
 - 🌱 I’m currently learning **GraphQL**
 
