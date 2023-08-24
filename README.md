@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gino Dela Vega</h1>
 <h3 align="center">A passionate Web developer / Software Engineer from Philippines</h3>
 
-<img align="right" alt="woah" width="400" src="https://i.pinimg.com/originals/58/c3/c9/58c3c9f2f0fc7cdc981babdab9dfa053.gif"></img>
+<img align="center" alt="woah" width="400" src="https://i.pinimg.com/originals/58/c3/c9/58c3c9f2f0fc7cdc981babdab9dfa053.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphonyofthenight&label=Profile%20views&color=0e75b6&style=flat" alt="symphonyofthenight" /> </p>
 
