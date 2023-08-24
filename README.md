@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gino Dela Vega</h1>
-<h3 align="center">A passionate Web developer / Software Engineer from Philippines</h3>
+<h3 align="center">Passionate Web developer / Software Engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphonyofthenight&label=Profile%20views&color=0e75b6&style=flat" alt="symphonyofthenight" /> </p>
