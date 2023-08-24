@@ -26,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symphonyofthenight&show_icons=true&locale=en&layout=compact" alt="symphonyofthenight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symphonyofthenight&show_icons=true&locale=en" alt="symphonyofthenight" /></p>
 
 
 
